@@ -21,11 +21,12 @@ h2{
 }
 
 h3 {
-	background-color: #eee;
-	padding: 10px;
+	background-color:blanchedalmond;
+	padding: 6px;
 	width: 100px;
 	margin: 0 auto 10px;
-  
+    border: 1px solid black;
+	border-radius: 5px;
 }
 
 .row {
